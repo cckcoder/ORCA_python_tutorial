@@ -1,0 +1,51 @@
+## Basic Syntax
+#Identifier
+* A name used to identify a variable, function, class, module or other object
+  - Start with a letter
+	- underscore
+	- digits (0 to 9)
+	- case sensitive
+	- Not allow @, $, %
+
+#Literal
+- Numeric Literal 
+- String Literal
+- Boolean Literal
+- Special Literal
+
+#Data Type
+- Number
+- Tuple
+- List
+- Set
+- Dictionary
+- String
+#The standard type hierarchy.
+* Number
+  int     a = 10
+	long    a = 345L
+	float   a = 45.67
+	complex a = 3.14j
+* Set
+  - An unordered collection of unique items.
+	  Separated by comma inside braces {}
+* List [] (mutable)
+	- An ordered sequence of items.
+	  All the items in a list do not need to be of the same type.
+		a = [5, 10, 15.2, 'Hello world']
+* Tuple ()
+	- Tuples are a group of values like a list
+	  Tuples are fixed in size onece they are assigned.
+
+* Dictionary {}
+	An unordered collection of key-value pairs.
+	d = {1:'value', 'key':2}
+#Types of Operators
+*Arithmatic
+	[+, -, *, /]
+*Comparison
+*Logical
+*Assignment
+*Bitwise
+*Membership
+*Identity
