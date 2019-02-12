@@ -44,8 +44,19 @@
 *Arithmatic
 	[+, -, *, /]
 *Comparison
+	[>, <, ==, !=, >=, <=]
+	reture "True|False"
 *Logical
+	[and, or, not]
 *Assignment
+	[
+		=, +=, -=,
+		*=, /=, %=,
+		//=, **=, &=,
+		!=
+	]
 *Bitwise
 *Membership
+	[in, not in]
 *Identity
+	[is, is not]
