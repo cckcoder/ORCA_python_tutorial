@@ -60,3 +60,13 @@
 	[in, not in]
 *Identity
 	[is, is not]
+
+#Flow Control
+*Decision Statement.
+	- if
+	- if-else
+	- if-elif-else
+*Looping Statement.
+	- For loop
+	- While loop
+	- For loop & Else
